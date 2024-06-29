@@ -1,3 +1,3 @@
 # Simple Blockchain
 
-This is a simple blockchain with **Python** and **Flask** that I created after taking the basic blockchain course.
+This is a simple blockchain using Python and Flask, which I created after completing a basic blockchain course.
